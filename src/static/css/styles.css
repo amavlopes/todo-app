@@ -41,3 +41,10 @@ button:focus {
 .input-group > input[type=text] {
     margin-right: 1rem
 }
+
+btn.btn-success,
+btn.btn-success.disabled,
+btn.btn-success:disabled {
+   background-color: pink;
+   border-color: pink;
+}
