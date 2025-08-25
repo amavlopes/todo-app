@@ -37,3 +37,7 @@ body {
 button:focus {
     border: 1px solid #333;
 }
+
+.input-group > input[type=text] {
+    margin-right: 1rem
+}
