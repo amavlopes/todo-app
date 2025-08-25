@@ -41,3 +41,8 @@ button:focus {
 .input-group > input[type=text] {
     margin-right: 1rem
 }
+
+button[type=submit] {
+   background-color: pink;
+   color: white;
+}
