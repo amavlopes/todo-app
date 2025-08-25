@@ -42,9 +42,7 @@ button:focus {
     margin-right: 1rem
 }
 
-btn.btn-success,
-btn.btn-success.disabled,
-btn.btn-success:disabled {
-   background-color: pink;
-   border-color: pink;
+.btn-success,.btn-success.disabled,.btn-success:disabled {
+   background-color: pink !important;
+   border-color: pink !important;
 }
